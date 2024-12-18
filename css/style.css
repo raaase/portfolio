@@ -1,0 +1,133 @@
+body {
+    background-color:  #292929 ;
+    font-family: "Black Ops One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.list {
+    display: flex;
+    background: linear-gradient(#ffbc0d 50%, #f9a048 50%);
+}
+
+.list2 {
+    display: flex;
+    list-style: none;
+}
+
+.list2 li {
+    margin-right: 100px;
+    margin-top: 3px;
+    font-family: "Prosto One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ .list h1 {
+   margin-left: 50px;
+   margin-right: 100px;
+   font-family: "Stalinist One", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 20px;
+}
+
+.list a {
+    text-decoration: none;
+    color: black;
+}
+
+.aboutme {
+    font-family: "Prosto One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+.aboutme p {
+    width: 600px;
+}
+
+.exm_img {
+    width: 350px;
+    padding: 5px;
+}
+
+.exm_b {
+    width: 185px;
+    height: 35px;
+    display: flex;
+    background: linear-gradient(#ffbc0d 50%, #f9a048 50%);
+    font-size: 20px;
+    font-family: "Prosto One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.examples {
+    display: flex;
+}
+
+.twosection {
+    background-color: #1f1f1f;
+    width: 1200px;
+    font-family: "Prosto One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+h2 {
+    font-family: "Stalinist One", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 20px;
+    color: white;
+}
+
+.examples2 {
+    display: flex;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+a button  {
+    color: black;
+}
+
+button a {
+    color: black;
+    text-decoration: none;
+}
+
+.aboutme img {
+    max-width: 50px;
+    margin-left: 10px;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background:linear-gradient(#ffbc0d 50%, #f9a048 50%); 
+    display: flex;
+}
+
+.contact img {
+    margin: 20px;
+}
+
+.contact span {
+    margin-left: 380px;
+}
+
+footer p {
+    margin-left: 270px;
+}
